@@ -17,7 +17,7 @@
     left: 12%;
     top: 15%;
     border: none;
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
@@ -49,7 +49,7 @@
 }
 
 .terminos p {
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -80,7 +80,7 @@
     width: 25%;
     background-color: #0a3871;
     border-radius: 24px;
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-size: 18px;
     line-height: 19px;
     text-align: center;
@@ -100,7 +100,7 @@
     background: #d8dfe8;
     border: 1px solid #0a3871;
     border-radius: 24px;
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-weight: 400;
     font-size: 18px;
     line-height: 19px;
@@ -143,7 +143,7 @@
 
 .mensaje-encriptado h2 {
     width: 60%;
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -154,7 +154,7 @@
 
 .mensaje-encriptado p {
     width: 80%;
-    font-family: "JBrains Mono";
+    font-family: "JetBrains Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
